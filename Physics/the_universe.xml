@@ -4,7 +4,9 @@
     <link>https://www.xul.fr</link>
     <description></description>
     <item>
- dsggggggggs
+        <title>XUL news</title>
+  <link>https://www.xul.fr/index.php</link>
+  <description>... some text...</description>
     </item>
 </channel>
 </rss>
