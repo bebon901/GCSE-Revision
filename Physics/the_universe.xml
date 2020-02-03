@@ -1,12 +1,29 @@
 <rss version="2.0">
 <channel>
-    <title>XUL</title>
-    <link>https://www.xul.fr</link>
+    <title>The Universe</title>
+    <link>https://www.google.com</link>
     <description></description>
     <item>
         <title>XUL news</title>
   <link>https://www.xul.fr/index.php</link>
   <description>... some text...</description>
+    </item>
+    <item>
+        <title>Mathew Blowers, [03.02.20 17:24]</title>
+  <link>https://www.x.com</link>
+  <description>Mathew Blowers, [03.02.20 17:24]</description>
+    </item><item>
+        <title></title>
+  <link>https://www.x.com</link>
+  <description></description>
+    </item><item>
+        <title>do you mind if I leave it to a more convenient time, like i could knock of and do some propper ones on the weekend but if i start doing them now they wont be very good</title>
+  <link>https://www.x.com</link>
+  <description>do you mind if I leave it to a more convenient time, like i could knock of and do some propper ones on the weekend but if i start doing them now they wont be very good</description>
+    </item><item>
+        <title></title>
+  <link>https://www.x.com</link>
+  <description></description>
     </item>
 </channel>
 </rss>
