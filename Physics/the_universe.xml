@@ -1,29 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title>My Cool Blog</title>
+<title>The Universe</title>
 <link>http://www.yourwebsite.com/</link>
-<description>My latest cool articles</description>
+<description>The Universe</description>
 <item>
-<title>Article 3</title>
+<title>Mathew Blowers, [04.02.20 18:28]</title>
 <link>example.com/3</link>
 <guid>example.com/3</guid>
-<pubDate>Wed, 27 Nov 2013 13:20:00 GMT</pubDate>
-<description>My newest article.</description>
-</item>
-<item>
-<title>Article 2</title>
-<link>example.com/2</link>
-<guid>example.com/2</guid>
-<pubDate>Tue, 26 Nov 2013 12:15:12 GMT</pubDate>
-<description>My second article.</description>
-</item>
-<item>
-<title>Article 1</title>
-<link>example.com/1</link>
-<guid> example.com/1</guid>
-<pubDate>Mon, 25 Nov 2013 15:10:45 GMT</pubDate>
-<description>My first article.</description>
+<description>Mathew Blowers, [04.02.20 18:28]</description>
+</item><item>
+<title>Ok</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description>Ok</description>
+</item><item>
+<title></title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description></description>
+</item><item>
+<title>Ben Benson, [05.02.20 17:31]</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description>Ben Benson, [05.02.20 17:31]</description>
+</item><item>
+<title>[ Photo ]</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description>[ Photo ]</description>
+</item><item>
+<title></title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description></description>
+</item><item>
+<title>Ben Benson, [05.02.20 17:31]</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description>Ben Benson, [05.02.20 17:31]</description>
+</item><item>
+<title>Have you found it yet</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description>Have you found it yet</description>
+</item><item>
+<title></title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description></description>
+</item><item>
+<title>Mathew Blowers, [05.02.20 17:42]</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description>Mathew Blowers, [05.02.20 17:42]</description>
+</item><item>
+<title>[In reply to Ben Benson]</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description>[In reply to Ben Benson]</description>
+</item><item>
+<title>not yet sorry</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description>not yet sorry</description>
+</item><item>
+<title></title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description></description>
+</item><item>
+<title>Mathew Blowers, [05.02.20 17:42]</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description>Mathew Blowers, [05.02.20 17:42]</description>
+</item><item>
+<title>[In reply to Ben Benson]</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description>[In reply to Ben Benson]</description>
+</item><item>
+<title>cool</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description>cool</description>
+</item><item>
+<title></title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description></description>
+</item><item>
+<title>Ben Benson, [05.02.20 17:42]</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description>Ben Benson, [05.02.20 17:42]</description>
+</item><item>
+<title>OK</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<description>OK</description>
 </item>
 </channel>
 </rss>
