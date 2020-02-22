@@ -1,0 +1,250 @@
+Speed is the distance travelled in a unit time
+Velocity includes a direction and speed
+Speed = Distance / Time
+Acceleration is how fast you are speeding up or slowing down
+The area under a Velocity/Time graph is the distance travelled
+Stopping Distance = Thinking Distance + Braking Distance
+Thinking Distance - Distance travelled between noticing the hazard and braking
+Braking Distance - Distance Car travels when brakes applied
+Factors Affecting Stopping distance - Fatigue, Drugs, Distractions, Age, weather
+Speed Control - Speed Cameras (now and average), Sleeping Policemen, Speed limits
+Car Safety - Crumple Zones, Safety Belts, Safety Cages and Aribags
+Crumple Zones - Collapse gradually on impact, reducing decceleraction
+Safety Belts - Stretch slightly to increase time
+Saftey Cages - Area of cars that will not collapse, proteccting occupants
+Airbags - Inflate on impact, increasing decceleration time for body
+When a force acts upon a moving body, energy is transferred, but the total amount of energy remains constant
+When an object is moved, work will need to be done on it to move
+Work Done = Force x Distance Moved (Joules = Newtons x Metres)
+Work done = Energy transferred
+Kinetic energy is movement energy
+kinetic energy = 1/2 x mass x speed^2
+Gravitational Potential Energy (GPE) is energy stored in an object because of it's height
+If it can fall, It's got GPE
+GPE = Mass x Gravity x Height
+Improving Efficiency - Rolling resistance, Idling Losses, inertial losses
+Motion of objects can be modelled using equations
+V = U + at | a = acceleration, U = initial Velocity, v = final velocity, x = distance, t = time
+x = Ut + 1/2at^2 | a = acceleration, U = initial Velocity, v = final velocity, x = distance, t = time
+x = (u=v)/2 x t | a = acceleration, U = initial Velocity, v = final velocity, x = distance, t = time
+v^2 = u^2 + 2ax | a = acceleration, U = initial Velocity, v = final velocity, x = distance, t = time
+Momentm - mass and velocty = momentum
+Momentum = mass x velocity (kgm/s = kg x m/s)
+Conservation of momentum - In any collision or explosion, momentum is conserved
+The principle of conservation of momentum: total momentum before collision = momentum after collision
+Force = Change in momentum / time taken
+In elastic collisions, the total K.E is conserved
+In a gas, collisions between molecules are elastic
+Inelastic Collisions (most collisions) do not conserve K.E, some energy is converted to heat and sound
+Moments are forces acting around a pivot
+Moments can be reffered to as turning forces
+moment = force x distance from pivot (Nm = N x m)
+Principle of moments: if sum of clockwise moments = anitclockwise moments, then object is balanced
+To draw a force, use arrows to show size and direction
+Resultant force is the overall force acting on the object
+4N <====[]==> 2N   Resultant Force = 2N Left
+A force can start or stop something moving, change a shape, direction and speed
+Newton's 1st Law: Balanced Forces Mean No Change In Velocity
+Newton's 1st Law is about balanced forces, and is linked to inertia
+Newton's 2nd Law: If there is an unbalanced force then the object will accelerate
+Newton's 2nd Law regards unbalanced forces
+F = MA --> Resultant force = Mass x Acceleration
+The acceleration of a body is directly propertional to the resultant force or it's inversely proportional
+Newton's 3rd Law: For every force there is an equal and opposite reaction force
+A light year is the distance light travels in a year
+8 planets
+an asteroid is left over material from the formation of the solar system
+Asteroids vary in size from a pebble to 1000km dia.
+Asteroids are mainly found in the asteroid belt between jupiter and mars
+Some asteroids have their own moons
+Comets are big, dirty snowballs made from dust and ice
+Comets are around 1 to 40km wide
+Comets are often found in he kuiper belt and the oort cloud
+Comet's tails get longer as they apporach the sun as more is melted
+Comets speed up approaching the sun due to more gravity
+Forces in stars is gravity inwards and nuclear fusion outwards
+Stars are made from dust and gas
+The goldilocks zone is the orbital range where a planet is far enough away to allow water to form
+The solar system ends at around 125000 AU, where there is no gravitational pull anymore
+Star > red giant > white Dwarf > Red Dwarf > black Dwarf
+Star > red supergiant > supernova > Nebula/neutron star/black hole
+Stars are formed from nebulau - gravity causes nebulau to collapse, heat + pressure > fusion!
+The HR diagram shows relations between stars
+The big bang happened around 14bn years ago
+galaxies on the edge of the universe travel faster than the ones on the inside
+Evidence of the big bang - CMBR, E=MC^2, Horn Antenna
+Red Shift - the faster a light source moves the further the red shift
+red shift happens because the wavelengths are stretched due to the speed
+Edwin Hubble came up with the idea of red shiftAll organisms vary
+viruses are not considered to be living
+The 5 kingdoms - Monera, Bacteria, Fungi, Plants, Animals
+Phylum, Plants > Flowring, Non-Flowering. Animals > Vertibrate, invertebrate
+Class - Verterbate - birds, reptiles, amphibians, fish, mammals
+3 Domains is another way of sorting animals
+3 Domains sorts by DNA
+the 3 Domains are Eubacteria, Archea, Eukaryotes
+Eubacteria and Archea are bacteria which have no nucleus
+Eukaryotes is everything else (exc. Viruses)
+Naming Organisms - Genus then Species, Written in italics
+Carolus Linnaeus - Classified organisms regarding their reproductive system
+Taxonomic Ranks - Split kingdoms into more managable chunks
+Taxonomic ranks - Kingodm, Pylum, Class, Order, Genus, Species
+2 types of adaptations - Morphological (physical), Behavioural (mental)
+Limiting Population Size - Resources - Light, Food, Water, Oxygen, CO2, Minerals
+Plants compete for space, water, light, CO2, Nutrients
+Animals Compete for Mates, Water, Terrotory, Food
+Interspecific Competition - Competition between different species
+Intraspecific competition - Competition in same species
+Biodiversity - number of different speicies in a particular area
+More Biodiversity - More Stable Environment
+Maintaining boidiversity - Laws, More habitats, Conserve Habitats, Breeding programmes
+Distributions of organisms in an area - Transects(samples taken in a line)
+Biological Control - Introduction of natural predators to control a speicies
+Alien Species are speicies not normally found in an area - Has Problems
+A.S Problems - Compete, have no predators, may have diseases
+Each new cell needs a set of genes, contained in chromosones
+Chromosones are found in the nucleus of every cell
+Humans have 46 chromosones, coming in 23 pairs
+You recieve 23 chromosones from your mum and dad each
+Each pair is similar, But not identical (allele)
+Sex - XY chromosones - Male / XX Chromosones - Female
+Cell division - mitosis - Two identical daughter cells
+Mitosis - Chromosones replicate - Same number of chromosones
+Mitosis - Growth, Replacement and repair
+Cell Division - Meiosis
+Meiosis - Gametes are formed, four daughter cells
+Meiosis - Haploid amount chromosones as mother, Daughter Cells not identical
+Meiosis - Reproduction (Sex Cells)
+Cancer - Speed of Cell division relies on a gene, but fault means uncontrollable growth
+Cancer = Uncontrollable Mitosis
+Stem Cells - Undifferentiated cell, use not specified.
+Stem cells can be found in the embryo
+Stem Cells can treat Cancer, Blindness, Deafness, Spinal Cord Injury, Etc.
+Stem Cells - Adapt, New cures can be found however seen as unethical, may be rejected
+Protiens are the main constituents of the body's tissue
+Various types of protein such as Enzymes, Hormones, Antibodies
+Proteins are made up of big long chains of amino acids, folded and coiled into a shape
+Production of proteins is cotrolled by DNA
+DNA can duplicate itself to produce copies
+DNA has four bases (A/T, G/C), shaped in a double helix - sugar-phosphate backbone
+DNA coding - read in triplets and then a protein is made accordingly
+DNA Triplets known as a codon
+A gene is a short length of DNA which codes for a protein
+Genetic Profiling - Cells are cut up by enzymes and then travel along the machine to produce and electropherogram
+Genetic Profiling done by Gel Electrophoresis
+Genotype - Genetic make up of an induvidual
+Phenotype -  The pysical appearance of a genotype
+Homozygous - Identical alleles
+Heterozygous - Different alleles
+Selfing - Pollen from a plant is used to fertilise the same plant
+Genetic modification - Exctracting genes from one and into another
+Genetic modification allows us to tailor organisms
+Continuous variation -  Continuous range and caused by a range of genes (height, weight etc)
+Discontinuous Variation - Caused by one gene, Distinct Groups
+Mutation - Change in the structure of gene. Occur naturally, increased chance by radiation
+Mutations are harmful and beneficial
+Gene Therapy can be used to remove the affects of a harmful allele
+Gene Therapy can be done by intorducing a healthy allele or by switching off the harmful allele
+Gene Therapy - Expensive, Unethical / Cures illnesses, offers hope for a normal life
+Exctinction can be caused by a species not adapting to it's new environment, or at all
+CNS = Central Nervous System
+Neurone = Nerve Cell
+Muscles Sense Tension
+Cornea = Transparent area of outer coating to let light in
+Iris = Coloured part of the eye
+Pupil = gap in eye to let light in
+Lens = Focuses the light onto the retina
+Sclera = tough white outer coating
+Choroid = black layer which reduces internal reflection in the eye
+Retina = Light sensitive layer
+Optic Nerve = takes signal from eye to brain
+Blind spot = Where the optic nerve is attached to the eye
+Reaction - Stimulus>Receptor>Coordinator>Effector
+Plant Responses - slow, often involve growth towards or away from a source
+Plant Responses know as tropisms
+Phototropism and Gravitropism are light and gravity
+Homeostatis - keeping conditions in the body constant
+Need homeostatis for metabolism - optimum conditions
+Homeostatis relies on hormones
+Hormones - Chemical messengers, travel in the bloodstream
+Glucose is the main source of energy
+If glucose levels too high, insulin released
+If gluscose levels are too low, glucagon released
+Insulin converts glucose to glycogen (to the liver)
+Glucagon converts glycoen back to glucose
+If body produces litte or no insulin - Diabetes
+Negative Feedback is the releasing of hormones - See Book
+Type 1 Diabetes - Body stops producing insulin (common in young)
+Type 2 Diabetes - body cells dont respond properly to insulin produced
+Treatment of Type 1 - Injection with insulin, diet management, pancreatic tissue transplant
+Treatment of Type 2 - Controlled with medication/diet
+Temperature regulation - Thermoregulation - keeps enzymes' optimum
+Too hot - Vasolidation, Sweating and Hair
+Too Cold, Vasoconstriction, shivering and Hair
+Negative feedback maintains optimum conditions inside the body
+The purpose of the kidney is to regulate the water content of the blood
+Not enough water - Dehydration and can be fatal
+Chemical reactions in the body take place in an aqueous solution
+Kidney also removes waste products from the blood
+Urea is made in the liver as a byproduct of the breakdown of proteins
+Urea is a poisonous substance that cannot be allowed to build up
+Urea is removed by the kidney
+Out to In - Cortex,(nephron), Medulla, Pelvis, ureter
+Blood is brought to the kidney in the renal artery
+The kidney regulates the water and salt and removes the urea
+The filtered excess products form a liquid called urine
+Urine travels down the ureters into the bladder
+Purified blood returns through the renal vein
+See Book For Nephron
+Anti Diuretic Hormone - ADH regulates water reabsorbed by kidney
+ADH released by the pituitry gland
+More ADH means more water reabsorbed in the nephrons
+Kidney dialysis is running blood through a machine to be filtered
+Kidney Transplant is transfer of a healthy kidney into your body
+Adv - KT - Live nearly normally, dont need dialysis, doesnt disrupt life
+Adv - KD - Work straight away, no need for drugs
+D.Adv - KT - risk of rejection, risk ok infection because of drugs, limited timeframe
+D.Adv - KD - time consuming, cost lots, 3 days a week, restricted diet, low blood pressure
+See book for how a dialysis machine works
+Metals are conuctive, ductile, malleable and dense
+If some metals are more reactive than others, they will push one out of their molecule
+Fe + CuCl2 ===> FeCl2 + Cu would be a displacement reaction
+Metal Extraction - stages: Mine the metal ore, Remove the waste rock, Remove the oxygen
+Metal ore is a rock which contains a significant amount of metal
+Iron Ore = Haematite = Iron Oxide
+Lead Ore = Galena = Lead Sulphide
+Aluminium = Bauxite = Aluminium Oxide
+Gold is found as an element because it is very unreactive
+Oxidation - Addition of oxygen to an element or compound
+Reduction - Removal of oxygen from a compound
+The Blast furnace is about reducing iron oxide to iron
+Carbon is more reactive than iron, so displaces the iron in the blast furnace
+Iron Oxide + Carbon --> Iron + Carbon Dioxide (2 Fe2 O3 + 3C --> 4Fe + 3CO2)
+Blast Furnace - Carbon - Displaces the iron, and provides something to burn to generate heat
+Blast Furnace - Iron ore - Provides the iron for the reaction
+Blast Furnace - Limestone - Helps remove impurities in the form of slag
+Blast Furnace - Oxygen (hot air) - Allows coke to burn providing the heat for the reaction
+Very reactive elements are removed from their compunds using electrolysis
+Aluminium is extracted using electrolysis
+To electrolysisise Aluminium, bauxite is dissolved in molten cryolite
+Aluminium is heated to 950* in electrolysis
+Aluminium Ions are attracted to the cathode, and gain electrons
+The oxide ions are attracted to the anode, where they lose electrons
+Aluminium Plants should be near the coast, Close to a power station, Close to aluminium markets and near a town
+An alloy is a mixture of molten metals, which allows us to create a more preferred material
+Transition Metals all form coloured compounds, Form positive ions and have the common metal proerties
+Ionic Compounds contain metals and non-metals
+Metallic Structure contains all metal ions
+Metallic structures can conduct heat and electricity, and have a high MP + BP
+Giant Ionic structures have non-metal and metal ions
+Giant Ionic structures conduct only when molten, high MP and BP, brittle
+Simple Molecular/Covalent contain non-metal ions, and do not conduct electricity, and have a low MP+BP
+Giant Molecular/Covalent contain only non metal ions and do not conduct (except graphite), high MP+BP, very hard
+Nano particles are between 1 and 100 nanometres
+Particles at nanoscale have different properties to particles at normal levels
+An acid is a proton donator
+An alkali is a proton acceptor
+The greater the amount of hydrogen atoms, the more acid a solution
+The greater the concentration of Hydroxide ions, the more hydroxide the solution is
+During neutralisation, the Hydrogen react with hydroxide ions to from water
+H+ + OH- ===> H20
