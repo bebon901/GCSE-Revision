@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>My Cool Blog</title>
+<link>http://www.yourwebsite.com/</link>
+<description>My latest cool articles</description><p></p><item>
+<title>Ring Network - Each node connects to 2 other nodes, one single pathway for data, high speeds</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Ring Network - Each node connects to 2 other nodes, one single pathway for data, high speeds</description>
+</item><p></p><item>
+<title>Optical Storage - CD/DVDs, meduim dur, low speed of acess, 650MB - 50GB</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Optical Storage - CD/DVDs, meduim dur, low speed of acess, 650MB - 50GB</description>
+</item><p></p><item>
+<title>Circuit Switching - OLD - data travels down one single route</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Circuit Switching - OLD - data travels down one single route</description>
+</item><p></p><item>
+<title>Clock Speed - how many fetch decode executes are made. Faster = More power needed, heating resources</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Clock Speed - how many fetch decode executes are made. Faster = More power needed, heating resources</description>
+</item><p></p><item>
+<title>More Cache memory stores instructions that are repeatedly used, providing faster, improving performance</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>More Cache memory stores instructions that are repeatedly used, providing faster, improving performance</description>
+</item><p></p><item>
+<title>Data Link Layer - Sends data from the network layer to the physical layer</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Data Link Layer - Sends data from the network layer to the physical layer</description>
+</item><p></p><item>
+<title>Mesh Network - Each node relays data. all mesh nodes cooperate, network can self heal, V. Expensive</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Mesh Network - Each node relays data. all mesh nodes cooperate, network can self heal, V. Expensive</description>
+</item><p></p><item>
+<title>Magnetic Storage - Hard Disc Drives, 500MB to 4TB, low dur, medium speed</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Magnetic Storage - Hard Disc Drives, 500MB to 4TB, low dur, medium speed</description>
+</item><p></p><item>
+<title>Bridge - Joins 2 networks that use the same protocol</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Bridge - Joins 2 networks that use the same protocol</description>
+</item><p></p><item>
+<title>Program Counter is a counter that keeps track of where the program is at</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Program Counter is a counter that keeps track of where the program is at</description>
+</item><p></p><item>
+<title>Wide area networks - WAN - multiple sites /  Local Area Networks - LAN - one site</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Wide area networks - WAN - multiple sites /  Local Area Networks - LAN - one site</description>
+</item><p></p><item>
+<title>Flash Memory is used for the pernament storage of data and is non-volatile, and can be rewritten</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Flash Memory is used for the pernament storage of data and is non-volatile, and can be rewritten</description>
+</item><p></p><item>
+<title>A dual core processor can theoretically do twice the amount of calculations, but can be waiting on the other</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>A dual core processor can theoretically do twice the amount of calculations, but can be waiting on the other</description>
+</item><p></p><item>
+<title>An IDE has an editor, compiler, interpreter, linker, loader, debugger, trace, Var. watch, memory inspector etc</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>An IDE has an editor, compiler, interpreter, linker, loader, debugger, trace, Var. watch, memory inspector etc</description>
+</item><p></p><item>
+<title>MAR (Memory Address Redgister) is the address of the data being written or read</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>MAR (Memory Address Redgister) is the address of the data being written or read</description>
+</item><p></p><item>
+<title>High level languages allow the use of powerful commands easily</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>High level languages allow the use of powerful commands easily</description>
+</item><p></p><item>
+<title>Cache Memory is volitaile and is tempoary storage of frequently used data, accessed quicker than RAM</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Cache Memory is volitaile and is tempoary storage of frequently used data, accessed quicker than RAM</description>
+</item><p></p><item>
+<title>Hubs - A hub copies all packets of data to all devices on the network</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Hubs - A hub copies all packets of data to all devices on the network</description>
+</item><p></p><item>
+<title>Physical Layer - Transmits the data using switches</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Physical Layer - Transmits the data using switches</description>
+</item><p></p><item>
+<title>Application Layer is the applications that need the network communication - requests data</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Application Layer is the applications that need the network communication - requests data</description>
+</item><p></p><item>
+<title>B - KB - MB - GB - TB - PB - EB - ZB - YB | all 1024 of each</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>B - KB - MB - GB - TB - PB - EB - ZB - YB | all 1024 of each</description>
+</item><p></p><item>
+<title>Inside the CPU is the ALU, Control Unit (clock), Buses(data, adress, control) and cache</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Inside the CPU is the ALU, Control Unit (clock), Buses(data, adress, control) and cache</description>
+</item><p></p><item>
+<title>A high clock speed can also strain battery life and high temperatures can be damaging</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>A high clock speed can also strain battery life and high temperatures can be damaging</description>
+</item><p></p><item>
+<title>Magnetic Storage - Disk/Tape, Optical Storage - CD/DVD/Blu-Ray, Solid State Storage - Flash/SD</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Magnetic Storage - Disk/Tape, Optical Storage - CD/DVD/Blu-Ray, Solid State Storage - Flash/SD</description>
+</item><p></p><item>
+<title>High level language - Similar to human language, easier to understand, meaningful identfiers</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>High level language - Similar to human language, easier to understand, meaningful identfiers</description>
+</item><p></p><item>
+<title>Star Network - A central switch connected to all, high reliability and speeds, expensive</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Star Network - A central switch connected to all, high reliability and speeds, expensive</description>
+</item><p></p><item>
+<title>Control Unit / Clock - decodes the program instruction in the CIR and coordinates the CPU</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Control Unit / Clock - decodes the program instruction in the CIR and coordinates the CPU</description>
+</item><p></p><item>
+<title>Gateways - Loin together 2 networks with different protocols, such as WAN and LAN</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Gateways - Loin together 2 networks with different protocols, such as WAN and LAN</description>
+</item><p></p><item>
+<title>Low level programming languages do not resemple natural languages, made up of bit patterns - direct to CPU</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Low level programming languages do not resemple natural languages, made up of bit patterns - direct to CPU</description>
+</item><p></p><item>
+<title>CIR - Current Instruction Register is a tempoary holding area for the current instruction</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>CIR - Current Instruction Register is a tempoary holding area for the current instruction</description>
+</item><p></p><item>
+<title>Typical Contents of a packet are Source address, destination, reassemble data, data and checksum</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Typical Contents of a packet are Source address, destination, reassemble data, data and checksum</description>
+</item><p></p><item>
+<title>ALU performs mathematical and logcal calculations</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>ALU performs mathematical and logcal calculations</description>
+</item><p></p><item>
+<title>RAM is volatile and stores data and prgrams currently in use</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>RAM is volatile and stores data and prgrams currently in use</description>
+</item><p></p><item>
+<title>Embedded systems tend to use ROM and exist in many devices in the home</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Embedded systems tend to use ROM and exist in many devices in the home</description>
+</item><p></p><item>
+<title>Bus Network - Nodes are connected to a common cable, reliable, med. speeds, cheap</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Bus Network - Nodes are connected to a common cable, reliable, med. speeds, cheap</description>
+</item><p></p><item>
+<title>Cache memory - Improves performance, providing instructions at a faster rate than RAM</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Cache memory - Improves performance, providing instructions at a faster rate than RAM</description>
+</item><p></p><item>
+<title>The OS provides an interface - WIMP, CLI, file system, customisation, error/help messages etc</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>The OS provides an interface - WIMP, CLI, file system, customisation, error/help messages etc</description>
+</item><p></p><item>
+<title>Network Layer - Creates the frames that travel across the network - Addresses amd routes data</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Network Layer - Creates the frames that travel across the network - Addresses amd routes data</description>
+</item><p></p><item>
+<title>ROM is non-volatile, and is read only, it cannot be changed at all</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>ROM is non-volatile, and is read only, it cannot be changed at all</description>
+</item><p></p><item>
+<title>Routers - Stores the adresses of computers on the network and transfers between devices</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Routers - Stores the adresses of computers on the network and transfers between devices</description>
+</item><p></p><item>
+<title>GPU is a specialised electronic circuitto rapidly manipulate data for computer graphics</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>GPU is a specialised electronic circuitto rapidly manipulate data for computer graphics</description>
+</item><p></p><item>
+<title>PAN - Personal Area Network, VPN - Virtual Private Network, MAN - Metropolitan AN.</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>PAN - Personal Area Network, VPN - Virtual Private Network, MAN - Metropolitan AN.</description>
+</item><p></p><item>
+<title>Switches - analyse each packet of data and sends it to the needed computer</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Switches - analyse each packet of data and sends it to the needed computer</description>
+</item><p></p><item>
+<title>Transport Layer - establishes connections between different hosts</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Transport Layer - establishes connections between different hosts</description>
+</item><p></p><item>
+<title>Solid State - USB sticks, high durability and speed, 2GB to 32GB</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Solid State - USB sticks, high durability and speed, 2GB to 32GB</description>
+</item><p></p><item>
+<title>CISC - need a larger CPU, better for more complex instructions, generally need cooling systems</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>CISC - need a larger CPU, better for more complex instructions, generally need cooling systems</description>
+</item><p></p><item>
+<title>RISC - fewer instructions for complex tasks, efficent for smaller tasks, cheaper, lower clock speeds - phones</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>RISC - fewer instructions for complex tasks, efficent for smaller tasks, cheaper, lower clock speeds - phones</description>
+</item><p></p><item>
+<title>Instructions are fetched from memory, decoded within the CPU and executed</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Instructions are fetched from memory, decoded within the CPU and executed</description>
+</item><p></p><item>
+<title>The 5 Layers of the network are Application, Transport, Network, Data Link, Physical</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>The 5 Layers of the network are Application, Transport, Network, Data Link, Physical</description>
+</item><p></p><item>
+<title>Packet Switching - NEW - Data travels down multiple routes, reassembled at destination</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Packet Switching - NEW - Data travels down multiple routes, reassembled at destination</description>
+</item><p></p><item>
+<title>The OS manages resources such as input and output devices - printing, compression, defragmentation etc</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>The OS manages resources such as input and output devices - printing, compression, defragmentation etc</description>
+</item><p></p><item>
+<title>Low level languages execute faster, whereas High lev. Lang. execute slower</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Low level languages execute faster, whereas High lev. Lang. execute slower</description>
+</item><p></p><item>
+<title>Registers are Program Counter, Memory Adress, and Current Instruction</title>
+<link>example.com/3</link>
+<guid>example.com/3</guid>
+<pubDate>Wed, 27 Jan 2020 13:20:00 GMT</pubDate>
+<description>Registers are Program Counter, Memory Adress, and Current Instruction</description>
+</item></channel>
+</rss>
